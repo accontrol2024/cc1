@@ -1,5 +1,5 @@
 !pip install streamlit
-
+import streamlit as st
 !pip install pyngrok
 
 # -*- coding: utf-8 -*-
