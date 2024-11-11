@@ -1,3 +1,7 @@
+!pip install streamlit
+
+!pip install pyngrok
+
 # -*- coding: utf-8 -*-
 """Untitled0.ipynb
 
@@ -11,7 +15,3 @@ import streamlit as st
 
 st.title("¡Hola, Streamlit!")
 st.write("Esta es una prueba para ver si la app se despliega correctamente.")
-
-!pip install streamlit
-
-!pip install pyngrok
